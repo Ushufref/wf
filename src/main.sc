@@ -7,7 +7,7 @@ theme: /
         a: start
 
     state: /hello
-        q!: [* hello */* hi *]
+        q!: [* hello */* hi *
         a: sap
     
     state: /weather
